@@ -1,0 +1,46 @@
+img {
+    height: 15%;
+    width: 20%;
+}
+
+h1 {
+    font-family: 'Yuji Mai', serif;
+    text-align: center;
+    font-size: 60pt;
+    color:rgba(235, 100, 123, .90);
+    width: 50%;
+    font-weight: bolder;
+}
+
+.l {
+    background-image: url('../staticassets/images/pexels-irina-iriser-1408221.jpg');
+    background-size: 100%;
+    color: rgb(238, 207, 207);
+    height: 130px;
+}
+
+.a {
+    background-image: url('../staticassets/images/pexels-john-ray-ebora-3863802.jpg');
+    background-size: 100%;
+    height: 130px;
+}
+
+.e {
+    background-image: url('../staticassets/images/pexels-karolina-grabowska-4622976.jpg');
+    background-size: 100%;
+    height: 130px;
+    color: whitesmoke;
+}
+
+.m {
+    background-image: url('../staticassets/images/pexels-pixabay-265720.jpg');
+    background-size: 100%;
+    height: 130px;
+}
+
+.d {
+    background-image: url('../staticassets/images/pexels-secret-garden-931177.jpg');
+    background-size: 100%;
+    height: 130px;
+    color:rgb(214, 136, 210);
+}
